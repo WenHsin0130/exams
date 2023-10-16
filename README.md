@@ -27,4 +27,4 @@
         - Silhouette coefficient：可用來評估分類結果的好壞。
 
 3. 結論與詳細說明：
-    請閱讀「[以父母教育程度分析對小孩成績的影響](<https://gitlab.com/mygroup5412841/MyProject/-/blob/main/%E4%BB%A5%E7%88%B6%E6%AF%8D%E6%95%99%E8%82%B2%E7%A8%8B%E5%BA%A6%E5%88%86%E6%9E%90%E5%B0%8D%E5%B0%8F%E5%AD%A9%E7%9A%84%E5%BD%B1%E9%9F%BF/%E4%BB%A5%E7%88%B6%E6%AF%8D%E6%95%99%E8%82%B2%E7%A8%8B%E5%BA%A6%E5%88%86%E6%9E%90%E5%B0%8D%E5%B0%8F%E5%AD%A9%E7%9A%84%E5%BD%B1%E9%9F%BF.pdf> "以父母教育程度分析對小孩成績的影響.pdf")」
+    請閱讀「[以父母教育程度分析對小孩成績的影響](<https://github.com/WenHsin0130/exams/blob/main/%E4%BB%A5%E7%88%B6%E6%AF%8D%E6%95%99%E8%82%B2%E7%A8%8B%E5%BA%A6%E5%88%86%E6%9E%90%E5%B0%8D%E5%B0%8F%E5%AD%A9%E6%88%90%E7%B8%BE%E7%9A%84%E5%BD%B1%E9%9F%BF.pdf> "以父母教育程度分析對小孩成績的影響.pdf")」
